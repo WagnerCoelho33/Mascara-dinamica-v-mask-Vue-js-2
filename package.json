@@ -1,0 +1,13 @@
+{
+  "name": "exemplo-v-mask-for-vuejs",
+  "version": "1.0.0",
+  "description": "Example code of v-mask plugin (Vue directive)",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/m3q1m5yp9x",
+  "main": "index.js",
+  "dependencies": {
+    "v-mask": "latest",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}
